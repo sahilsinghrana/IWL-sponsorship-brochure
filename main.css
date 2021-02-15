@@ -1,0 +1,14 @@
+* {
+  padding : 0;
+  margin:0;
+}
+.viewer {
+height : 100vh;
+  width : 100vw;
+}
+
+
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+}
